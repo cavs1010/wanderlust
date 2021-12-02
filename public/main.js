@@ -10,7 +10,7 @@ const urlImage = 'https://api.foursquare.com/v3/places/';
 
 
 // OpenWeather Info
-const openWeatherKey = '13e0b569c5f1b9e90d5276f45e9d9e0e';
+const openWeatherKey = 'YOUR KEY';
 const weatherUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 // Page Elements
