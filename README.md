@@ -1,5 +1,5 @@
 # 💺Wanderlust - API's testing<br>
-[Objective](#objective_h) | [languajes](#languajes_h) | [Status](#status_h) | [Acknowledge](#acknowledge_h) 
+[Objective](#objective_h) | [languages](#languages_h) | [Status](#status_h) | [Acknowledge](#acknowledge_h) 
 
 <p>Work with the FourSquare and Open Weather API's</p><br>
 
@@ -7,7 +7,7 @@
 <p>Implement API calls</p>
 
 
-<h2>Languajes and tools<a name="languajes_h"></a></h2>
+<h2>Languages and tools<a name="languajes_h"></a></h2>
 <p></p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
